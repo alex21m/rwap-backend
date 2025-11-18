@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./feeds.csv:/app/feeds.csv:ro
+      - ./images:/app/images
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: rwapdb
+      POSTGRES_USER: rwap
+      POSTGRES_PASSWORD: rwap_pass
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  pgdata:
