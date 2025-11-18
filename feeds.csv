@@ -1,0 +1,94 @@
+Region,Source,URL,Category,Tags
+Global,Bloomberg,https://www.bloomberg.com/markets,Markets,Financial
+Global,Bloomberg,https://www.bloomberg.com/technology,Technology,Business
+Global,Bloomberg,https://www.bloomberg.com/economy,Economy,Business
+Global,Financial Times,https://www.ft.com/companies,Corporate,Business
+Global,Financial Times,https://www.ft.com/markets,Markets,Financial
+Global,Financial Times,https://www.ft.com/ft-video,Videos,Business
+Global,Reuters,https://www.reuters.com/business,Business,Business
+Global,Reuters,https://www.reuters.com/markets,Markets,Financial
+Global,Reuters,https://www.reuters.com/investigates,Insights,Business
+Global,The Wall Street Journal,https://www.wsj.com/business,Business,Business
+Global,The Wall Street Journal,https://www.wsj.com/market-data,Markets,Financial
+Global,The Wall Street Journal,https://www.wsj.com/real-estate,Real Estate,Real Estate
+Global,CNBC,https://www.cnbc.com/business,Business,Business
+Global,CNBC,https://www.cnbc.com/investing,Investing,Financial
+Global,CNBC,https://www.cnbc.com/crypto,Cryptocurrency,Financial
+Global,Forbes,https://www.forbes.com/business,Business,Business
+Global,Forbes,https://www.forbes.com/money,Personal Finance,Financial
+Global,The Economist,https://www.economist.com/business,Business,Business
+Global,The Economist,https://www.economist.com/finance-and-economics,Economy,Financial
+Global,MarketWatch,https://www.marketwatch.com/markets,Markets,Financial
+Global,MarketWatch,https://www.marketwatch.com/personal-finance,Personal Finance,Financial
+Global,Business Insider,https://www.businessinsider.com/business,Business,Business
+Global,Business Insider,https://www.businessinsider.com/markets,Markets,Financial
+Global,Investopedia,https://www.investopedia.com/markets,Markets,Financial
+Global,Investopedia,https://www.investopedia.com/real-estate,Real Estate,Real Estate
+Global,Barron's,https://www.barrons.com/articles/markets,Markets,Financial
+Global,Property Week,https://www.propertyweek.com/news,News,Real Estate
+Global,LoopNet,https://www.loopnet.com/learn/news,News,Real Estate
+Global,REIT.com,https://www.reit.com/news-insights,Insights,Financial
+Global,World Economic Forum,https://www.weforum.org/topics/economy,Insights,Business
+,,,,
+UAE,Gulf Business,https://gulfbusiness.com/category/finance,Finance,Financial
+UAE,Gulf Business,https://gulfbusiness.com/category/real-estate,Real Estate,Real Estate
+UAE,Gulf Business,https://gulfbusiness.com/category/industry,Industry,Business
+UAE,ZAWYA,https://www.zawya.com/en/uae,News,Business
+UAE,ZAWYA,https://www.zawya.com/en/tags/construction,Construction,Real Estate
+UAE,ZAWYA,https://www.zawya.com/en/tags/finance,Finance,Financial
+UAE,MEED,https://www.meed.com/countries/gcc/uae/latest-news,News,Business
+UAE,MEED,https://www.meed.com/sector/construction/rss,Construction,Real Estate
+UAE,MEED,https://www.meed.com/sector/banking-finance/rss,Finance,Financial
+UAE,Emirates 24|7,https://www.emirates247.com/business,News,Business
+UAE,Khaleej Times,https://www.khaleejtimes.com/business,News,Business
+UAE,The National,https://www.thenationalnews.com/business,News,Business
+UAE,The National,https://www.thenationalnews.com/property,News,Real Estate
+UAE,Dubai Financial Market,https://www.dfm.ae/mediacenter/media-news,News,Financial
+UAE,Abu Dhabi Securities Exchange,https://www.adx.ae/en/mediacenter/news,News,Financial
+UAE,Arabian Business,https://www.arabianbusiness.com/business,News,Business
+UAE,Arabian Business,https://www.arabianbusiness.com/real-estate,News,Real Estate
+UAE,Construction Week Online (ME),https://www.constructionweekonline.com/category/news,News,Real Estate
+UAE,Property Finder (UAE Blog),https://www.propertyfinder.ae/blog,Insights,Real Estate
+UAE,Dubai Land Department,https://dubailand.gov.ae/en/news-and-media/news,News,Real Estate
+UAE,DIFC,https://www.difc.ae/news-media,News,Financial
+UAE,Abu Dhabi Investment Office (ADIO),https://www.adio.gov.ae/en/media/news,News,Business
+UAE,Invest in Dubai,https://invest.dubai.ae/media-center/news,News,Business
+UAE,Gulf News (Business),https://gulfnews.com/business,News,Business
+UAE,Gulf News (Property),https://gulfnews.com/property,News,Real Estate
+UAE,Bloomberg Asharq,https://www.asharqbusiness.com/news,News,Business
+UAE,Forbes Middle East,https://forbesmiddleeast.com/news,News,Business
+UAE,Entrepreneur Middle East,https://www.entrepreneur.com/en/middleeast/category/news,News,Business
+UAE,Trade Arabia,https://www.tradearabia.com/category/business-news,News,Business
+UAE,Bayut.com (Blog),https://www.bayut.com/blog/category/dubai-real-estate-guides,Insights,Real Estate
+UAE,The Big 5 (News),https://www.thebig5.ae/media/news,News,Real Estate
+,,,,
+India,The Economic Times,https://economictimes.indiatimes.com/markets,Markets,Financial
+India,The Economic Times,https://economictimes.indiatimes.com/news/economy,Economy,Business
+India,The Economic Times,https://economictimes.indiatimes.com/industry,Industry,Business
+India,ET Realty,https://realty.economictimes.indiatimes.com/latest-news,News,Real Estate
+India,Mint,https://www.livemint.com/market,Markets,Financial
+India,Mint,https://www.livemint.com/industry,Industry,Business
+India,Mint,https://www.livemint.com/industry/real-estate,News,Real Estate
+India,Business Standard,https://www.business-standard.com/markets-news,Markets,Financial
+India,Business Standard,https://www.business-standard.com/economy-news,Economy,Business
+India,The Hindu BusinessLine,https://www.thehindubusinessline.com/markets,Markets,Financial
+India,The Hindu BusinessLine,https://www.thehindubusinessline.com/economy,Economy,Business
+India,Moneycontrol,https://www.moneycontrol.com/news/business,News,Business
+India,Moneycontrol,https://www.moneycontrol.com/news/market,News,Financial
+India,Moneycontrol,https://www.moneycontrol.com/news/tags/real-estate.html,News,Real Estate
+India,Business Today,https://www.businesstoday.in/markets,Markets,Financial
+India,Business Today,https://www.businesstoday.in/economy,Economy,Business
+India,Financial Express,https://www.financialexpress.com/market,Markets,Financial
+India,Financial Express,https://www.financialexpress.com/economy,Economy,Business
+India,NDTV Profit,https://www.ndtvprofit.com/business,News,Business
+India,NDTV Profit,https://www.ndtvprofit.com/market,Markets,Financial
+India,99acres.com,https://www.99acres.com/articles,Insights,Real Estate
+India,MagicBricks.com,https://www.magicbricks.com/blog,Insights,Real Estate
+India,Live Law (Business & Corporate),https://www.livelaw.in/tags/business-and-corporate,News,Business
+India,Live Law (Taxation),https://www.livelaw.in/tags/taxation,News,Financial
+India,Inc42,https://inc42.com/buzz,News,Business
+India,YourStory,https://yourstory.com/latest-news,News,Business
+India,VCCircle,https://www.vccircle.com/news,News,Business
+India,Indian Realty News,https://www.indianrealtynews.com/real-estate-news/,News,Real Estate
+India,JLL India (Insights),https://www.jll.co.in/en/views,Insights,Real Estate
+India,Knight Frank India (Research),https://www.knightfrank.co.in/research,Insights,Real Estate
